@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:0,ABC Brisbane
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/2dfc66233f7884ed7q1c52687b675f15/index.m3u8
+#EXTINF:0,Channel 7 Brisbane
+https://npc.cdn.7livecloud.io/hls/live/BRI1/masterSD.m3u8
+#EXTINF:0,Channel 72 Brisbane 
+https://npc.cdn.7livecloud.io/hls/live/BRI2/masterSD.m3u8
+#EXTINF:0,Channel 73 Brisbane 
+https://npc.cdn.7livecloud.io/hls/live/BRI3/masterSD.m3u8
+#EXTINF:0,Channel 7flix
+https://npc.cdn.7livecloud.io/hls/live/BRI6/masterSD.m3u8
+#EXTINF:0,Channel 9 Brisbane
+https://9now-livestreams.akamaized.net/hls/live/2008324/ch9-bne/master.m3u8
+#EXTINF:0,Channell 99 brisbane 
+https://9now-livestreams.akamaized.net/hls/live/2008320/go-bne/master.m3u8
+#EXTINF:0,Channel 9 gem 
+https://9now-livestreams.akamaized.net/hls/live/2008315/gem-bne/master.m3u8
+#EXTINF:0,Channel 10 
+https://live.10play.com.au/10QLD/stream.m3u8
+#EXTINF:0,Channel 10 Bold 
+https://live.10play.com.au/10BoldQLD/stream.m3u8
+#EXTINF:0,Channel 10 peach
+https://live.10play.com.au/10PeachQLD/stream.m3u8
+#EXTINF:0,Nigga TV
+https://sbs-live.akamaized.net/hls/live/2002826/channel4/geo/master_1800K.m3u8
+#EXTINF:0,SBS 1
+https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8
+#EXTINF:0,SBS Viceland
+https://sbs-live.akamaized.net/hls/live/2002828/channel2/geo/master_2500K.m3u8
